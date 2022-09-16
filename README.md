@@ -14,7 +14,7 @@ This section of analysis generates a set of 2,000 random latitudes and longitude
 
 ## 2. Vacation Search : Create a Customer Travel Destinations Map
 This section of analysis, uses input statements to retrieve customer weather preferences(preferred min and max temperature), and using weather database and google API, get the potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers with hotel names and other information of the city.
-!["Vacation Search" ](../World_Weather_Analysis/Vacation_Search/WeatherPy_vacation_map.png?raw=true "Vacation Search")
+!["Vacation Search" ](Vacation_Search/WeatherPy_vacation_map.png?raw=true "Vacation Search")
 
 
 ## 3. Vacation Itinerary : Create a Travel Itinerary Map
@@ -22,10 +22,10 @@ This analysis uses the Google Directions API to create a travel itinerary that s
 
 The images below shows a 4 stop direction layer and a pop up marker layer for each city on the map.
 
-!["Vacation Itinerary" ](../World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map.png?raw=true "Vacation Itinerary")
+!["Vacation Itinerary" ](Vacation_Itinerary/WeatherPy_travel_map.png?raw=true "Vacation Itinerary")
 
 
-!["Vacation city marker" ](../World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map_markers.png?raw=true "Vacation city marker")
+!["Vacation city marker" ](Vacation_Itinerary/WeatherPy_travel_map_markers.png?raw=true "Vacation city marker")
 
 
 
